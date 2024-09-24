@@ -30,7 +30,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		4FFFC21E2CA2CA14004558FC /* Exceptions for "Movie App" folder in "Movie App" target */ = {
+		4F6F76552CA31E3B00DD5301 /* Exceptions for "Movie App" folder in "Movie App" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -40,10 +40,10 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		4FFFC1F82CA2CA12004558FC /* Movie App */ = {
+		4F6F764A2CA31E3B00DD5301 /* Movie App */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				4FFFC21E2CA2CA14004558FC /* Exceptions for "Movie App" folder in "Movie App" target */,
+				4F6F76552CA31E3B00DD5301 /* Exceptions for "Movie App" folder in "Movie App" target */,
 			);
 			path = "Movie App";
 			sourceTree = "<group>";
@@ -88,7 +88,7 @@
 		4FFFC1ED2CA2CA12004558FC = {
 			isa = PBXGroup;
 			children = (
-				4FFFC1F82CA2CA12004558FC /* Movie App */,
+				4F6F764A2CA31E3B00DD5301 /* Movie App */,
 				4FFFC20F2CA2CA14004558FC /* Movie AppTests */,
 				4FFFC2192CA2CA14004558FC /* Movie AppUITests */,
 				4FFFC1F72CA2CA12004558FC /* Products */,
@@ -121,7 +121,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				4FFFC1F82CA2CA12004558FC /* Movie App */,
+				4F6F764A2CA31E3B00DD5301 /* Movie App */,
 			);
 			name = "Movie App";
 			packageProductDependencies = (
@@ -295,8 +295,8 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -323,8 +323,8 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
